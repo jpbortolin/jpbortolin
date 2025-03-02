@@ -4,7 +4,7 @@ Eu me chamo João Pedro Bortolin e atualmente estou cursando Engenharia da Compu
 
 💻 Estou sempre em busca de aprimorar minhas habilidades e explorar novas tecnologias. Estou focado em construir soluções inovadoras e eficientes, seja no desenvolvimento de sistemas, aplicações web ou qualquer outro desafio que envolva código.
 
-🚀 Aqui no meu GitHub, você encontrará projetos e experimentos que refletem meu aprendizado e evolução na área. Sinta-se à vontade para explorar e trocar ideias!
+🚀 Aqui no meu GitHub, você encontrará projetos que refletem meu aprendizado e evolução na área. Sinta-se à vontade para explorar e trocar ideias!
 
 <div>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-bortolin-647995260?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6KwUmZa0TLa0zZePJzT20Q%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
