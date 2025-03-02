@@ -24,14 +24,6 @@ Eu me chamo João Pedro Bortolin e atualmente estou cursando Engenharia da Compu
 />
 <img 
     align="left" 
-    alt="Maven"
-    title="Maven" 
-    width="42px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
     alt="MySQL"
     title="MySQL" 
     width="47px" 
