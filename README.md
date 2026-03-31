@@ -1,13 +1,45 @@
 # 👨🏻‍💻 João Bortolin
 
-Eu me chamo João Pedro Bortolin e atualmente estou cursando Engenharia da Computação na Fundação Hermínio Ometto (Uniararas) e sou técnico em Desenvolvimento de Sistemas pela ETEC.
+## 🚀 Sobre Mim
+Estou graduando em Engenharia da Computação e atualmente atuo na área de Suporte de TI, enquanto me aprofundo em estudos de cibersegurança e redes. Meu objetivo é realizar a transição para posições voltadas à Segurança da Informação ou Análise de Redes.
 
-💻 Estou sempre em busca de aprimorar minhas habilidades e explorar novas tecnologias. Estou focado em construir soluções inovadoras e eficientes, seja no desenvolvimento de sistemas, aplicações web ou qualquer outro desafio que envolva código.
+Tenho me dedicado a compreender fundamentos de segurança da informação, monitoramento e análise de tráfego, bem como estratégias defensivas de Blue Team, sempre com foco em fortalecer a proteção de ambientes corporativos.
 
-🚀 Aqui no meu GitHub, você encontrará projetos que refletem meu aprendizado e evolução na área. Sinta-se à vontade para explorar e trocar ideias!
+Embora meu interesse principal seja na defesa cibernética, também estudo conceitos e técnicas de Red Team e Pentesting.
 
+---
+
+## 🛡️ Certificações
+- **ISO/IEC 27001 Information Security Associate**  
+  Conhecimento em gestão de segurança da informação e boas práticas de governança  
+
+- **Fortinet Certified Fundamentals – Cybersecurity**  
+  Competência em fundamentos de proteção de redes e segurança de endpoints  
+
+- **Certificações IBSEC**
+  - Fundamentos em Cibersegurança;
+  - Boas Práticas de Cibersegurança;  
+  - Analista SOC.
+  Habilidades práticas e estratégicas em monitoramento, análise e resposta a incidentes em SOC
+
+---
+
+## 🎯 Objetivo Profissional
+- Segurança da Informação (Blue Team / SOC)  
+- Análise de Redes  
+- Defesa Cibernética  
+
+---
+
+## ⚙️ Tecnologias & Interesses
+- Redes e Análise de Tráfego  
+- Monitoramento e SIEM  
+- Resposta a Incidentes  
+- Detecção de Ameaças  
+- Ethical Hacking
+  
 <div>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-bortolin-647995260?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6KwUmZa0TLa0zZePJzT20Q%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/joaobortolin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ---
