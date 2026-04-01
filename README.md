@@ -37,76 +37,87 @@ Embora meu interesse principal seja na defesa cibernética, também estudo conce
 - Resposta a Incidentes  
 - Detecção de Ameaças  
 - Ethical Hacking
-  
-<div>
-  <a href="https://www.linkedin.com/in/joaobortolin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
+---
+## 🔗 Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaobortolin/)
+[![Credly](https://img.shields.io/badge/Credly-F36F21?style=for-the-badge&logo=credly&logo=white)](https://www.credly.com/users/joaobortolin/badges#credly)
 
 ---
 
-### Linguagens e Tecnologias
+### 🛠️ Cyber Tools
 
 <img 
     align="left" 
-    alt="Java"
-    title="Java" 
+    alt="Linux"
+    title="Linux" 
     width="42px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="MySQL"
-    title="MySQL" 
-    width="47px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Bash"
+    title="Bash" 
     width="42px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="C" 
-    title="C"
+    alt="Python"
+    title="Python" 
     width="42px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Wireshark"
+    title="Wireshark" 
     width="42px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.simpleicons.org/wireshark/1679A7" 
 />
+
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Docker"
+    title="Docker" 
     width="42px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Kali Linux"
+    title="Kali Linux" 
     width="42px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://img.icons8.com/color/48/kali-linux.png" 
 />
+
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="Nmap"
+    title="Nmap" 
     width="42px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://nmap.org/images/nmap-logo-256x256.png" 
 />
+
+<img 
+    align="left" 
+    alt="Metasploit"
+    title="Metasploit" 
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/fluency/48/metasploit.png" 
+/>
+
+<br/><br/>
