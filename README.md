@@ -1,39 +1,42 @@
 # 👨🏻‍💻 João Pedro Bortolin
 
 ## 🚀 Sobre Mim
-Estou graduando em Engenharia da Computação e atualmente atuo na área de Suporte de TI, enquanto me aprofundo em estudos de cibersegurança e redes. Meu objetivo é realizar a transição para posições voltadas à Segurança da Informação ou Análise de Redes.
+Atualmente estou cursando Engenharia da Computação e atuando na área de TI, desenvolvendo uma base sólida em tecnologia, suporte e infraestrutura, enquanto direciono meus estudos e desenvolvimento profissional para a área de desenvolvimento de software.
 
-Tenho me dedicado a compreender fundamentos de segurança da informação, monitoramento e análise de tráfego, bem como estratégias defensivas de Blue Team, sempre com foco em fortalecer a proteção de ambientes corporativos.
-
-Embora meu interesse principal seja na defesa cibernética, também estudo conceitos e técnicas de Red Team e Pentesting.
+Tenho aprofundado meus conhecimentos em programação, com foco em desenvolvimento backend, lógica de programação, orientação a objetos, banco de dados e integração entre sistemas. Atualmente pratico e desenvolvo projetos utilizando Java, PostgreSQL, SQL, Git e APIs REST, buscando aplicar conceitos na construção de soluções eficientes e escaláveis. Busco unir conhecimentos de programação, redes e cibersegurança, que são áreas da tecnologia que eu mais me identifico e que gosto muito de trabalhar.
 
 ## 🛡️ Certificações
-- **ISO/IEC 27001 Information Security Associate**  
-  Conhecimento em gestão de segurança da informação e boas práticas de governança  
+- ISO/IEC 27001 Information Security Associate;
+- Fortinet Certified Fundamentals – Cybersecurity.
 
-- **Fortinet Certified Fundamentals – Cybersecurity**  
-  Competência em fundamentos de proteção de redes e segurança de endpoints  
+- **Certificações FIAP:**
+  - Java Development;
+  - Linux Fundamentos.
 
-- **Certificações IBSEC**
+- **Certificações IBSEC:**
   - Fundamentos em Cibersegurança;
   - Boas Práticas de Cibersegurança;  
   - Analista SOC.
-  Habilidades práticas e estratégicas em monitoramento, análise e resposta a incidentes em SOC
-
-## 🎯 Objetivo Profissional
-- Segurança da Informação (Blue Team / SOC)  
-- Análise de Redes  
-- Defesa Cibernética  
 
 ## ⚙️ Tecnologias & Interesses
-- Redes e Análise de Tráfego  
-- Monitoramento e SIEM  
-- Resposta a Incidentes  
-- Detecção de Ameaças  
+💻 Desenvolvimento
+- Java
+- APIs REST
+- SQL
+- Git & GitHub
+
+🔐 Cybersecurity
+- Monitoramento e SIEM
+- Resposta a Incidentes
+- Threat Detection
 - Ethical Hacking
+- Pentest Web
+  
+🌐 Redes
+- Redes TCP/IP
+- Análise de Tráfego
 
-## 🛠️ Cyber Tools
-
+## 🛠️ Cyber/Dev Tools
 <img 
     align="left" 
     alt="Linux"
@@ -45,38 +48,20 @@ Embora meu interesse principal seja na defesa cibernética, também estudo conce
 
 <img 
     align="left" 
-    alt="Bash"
-    title="Bash" 
+    alt="Java"
+    title="Java" 
     width="42px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
 
 <img 
     align="left" 
-    alt="Python"
-    title="Python" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
     width="42px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Wireshark"
-    title="Wireshark" 
-    width="42px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.simpleicons.org/wireshark/1679A7" 
-/>
-
-<img 
-    align="left" 
-    alt="Docker"
-    title="Docker" 
-    width="42px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
 />
 
 <img 
@@ -90,21 +75,13 @@ Embora meu interesse principal seja na defesa cibernética, também estudo conce
 
 <img 
     align="left" 
-    alt="Nmap"
-    title="Nmap" 
+    alt="Git"
+    title="Git" 
     width="42px" 
     style="padding-right: 10px;" 
-    src="https://nmap.org/images/nmap-logo-256x256.png" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Metasploit"
-    title="Metasploit" 
-    width="42px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/fluency/48/metasploit.png" 
-/>
 <br/><br/>
 
 ## 🔗 Links
