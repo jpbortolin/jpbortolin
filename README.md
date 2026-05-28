@@ -14,9 +14,10 @@ Tenho aprofundado meus conhecimentos em programação, com foco em desenvolvimen
   - Linux Fundamentos.
 
 - **Certificações IBSEC:**
+  - Pentester - Associado;
   - Fundamentos em Cibersegurança;
   - Boas Práticas de Cibersegurança;  
-  - Analista SOC.
+  - Analista SOC - Essencial.
 
 ## ⚙️ Tecnologias & Interesses
 💻 Desenvolvimento
