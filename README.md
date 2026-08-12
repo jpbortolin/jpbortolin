@@ -37,7 +37,7 @@ Também possuo conhecimentos em redes e cibersegurança, áreas que complementam
 - SQL e PostgreSQL
 - iDempiere
 
-## 🛠️ Cyber/Dev Tools
+## 🛠️ Tools
 <img 
     align="left" 
     alt="Linux"
