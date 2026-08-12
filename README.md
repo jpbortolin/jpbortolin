@@ -1,41 +1,41 @@
 # 👨🏻‍💻 João Pedro Bortolin
 
 ## 🚀 Sobre Mim
-Atualmente estou cursando Engenharia da Computação e atuando na área de TI, desenvolvendo uma base sólida em tecnologia, suporte e infraestrutura, enquanto direciono meus estudos e desenvolvimento profissional para a área de desenvolvimento de software.
+Atualmente estou cursando Engenharia da Computação e atuando na área de TI, desenvolvendo uma base sólida em tecnologia, suporte e infraestrutura, enquanto direciono meus estudos e desenvolvimento profissional para a área de Desenvolvimento de Software.
 
-Tenho aprofundado meus conhecimentos em programação, com foco em desenvolvimento backend, lógica de programação, orientação a objetos, banco de dados e integração entre sistemas. Atualmente pratico e desenvolvo projetos utilizando Java, PostgreSQL, SQL, Git e APIs REST, buscando aplicar conceitos na construção de soluções eficientes e escaláveis. Busco unir conhecimentos de programação, redes e cibersegurança, que são áreas da tecnologia que eu mais me identifico e que gosto muito de trabalhar.
+Tenho aprofundado meus conhecimentos em programação, com foco em desenvolvimento backend, lógica de programação, Programação Orientada a Objetos, bancos de dados e integração entre sistemas. Atualmente desenvolvo projetos e estudos utilizando Java, PostgreSQL, SQL e Git, buscando aplicar esses conhecimentos na construção de soluções eficientes e escaláveis.
+
+Também possuo conhecimentos em redes e cibersegurança, áreas que complementam minha formação e contribuem para uma visão mais ampla sobre desenvolvimento, infraestrutura e segurança de sistemas.
 
 ## 🛡️ Certificações
-- ISO/IEC 27001 Information Security Associate;
-- Fortinet Certified Fundamentals – Cybersecurity.
+- **Desenvolvimento:**
+  - FIAP - Java Development;
+  - FIAP - Java Fundamentos;
+  - FIAP - Linux Fundamentos.
 
-- **Certificações FIAP:**
-  - Java Development;
-  - Linux Fundamentos.
-
-- **Certificações IBSEC:**
-  - Pentester - Associado;
-  - Fundamentos em Cibersegurança;
-  - Boas Práticas de Cibersegurança;  
-  - Analista SOC - Essencial.
+- **Cybersecurity:**
+  - IBSEC - Pentester Associate;
+  - IBSEC - Boas Práticas de Cibersegurança;
+  - SkillFront - ISO/IEC 27001 Information Security Associate.
 
 ## ⚙️ Tecnologias & Interesses
 💻 Desenvolvimento
 - Java
+- Programação Orientada a Objetos
 - APIs REST
 - SQL
+- PostgreSQL
 - Git & GitHub
 
 🔐 Cybersecurity
-- Monitoramento e SIEM
-- Resposta a Incidentes
-- Threat Detection
 - Ethical Hacking
 - Pentest Web
-  
-🌐 Redes
-- Redes TCP/IP
-- Análise de Tráfego
+
+## 📚 Atualmente estudando
+- Java e Programação Orientada a Objetos
+- APIs REST
+- SQL e PostgreSQL
+- iDempiere
 
 ## 🛠️ Cyber/Dev Tools
 <img 
@@ -67,20 +67,11 @@ Tenho aprofundado meus conhecimentos em programação, com foco em desenvolvimen
 
 <img 
     align="left" 
-    alt="Kali Linux"
-    title="Kali Linux" 
+    alt="GitHub"
+    title="GitHub" 
     width="42px" 
     style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/48/kali-linux.png" 
-/>
-
-<img 
-    align="left" 
-    alt="Git"
-    title="Git" 
-    width="42px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
 />
 
 <br/><br/>
