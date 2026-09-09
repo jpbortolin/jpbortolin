@@ -5,18 +5,17 @@ Atualmente estou cursando Engenharia da Computação e atuando na área de TI, d
 
 Tenho aprofundado meus conhecimentos em programação, com foco em desenvolvimento backend, lógica de programação, Programação Orientada a Objetos, bancos de dados e integração entre sistemas. Atualmente desenvolvo projetos e estudos utilizando Java, PostgreSQL, SQL e Git, buscando aplicar esses conhecimentos na construção de soluções eficientes e escaláveis.
 
-Também possuo conhecimentos em redes e cibersegurança, áreas que complementam minha formação e contribuem para uma visão mais ampla sobre desenvolvimento, infraestrutura e segurança de sistemas.
+## 🛡️ Certificados
+  - FIAP: Java Development;
+  - FIAP: Java Fundamentos;
+  - FIAP: Engenharia de Software;
+  - FIAP: Linux Fundamentos;
+    
+  - Udemy: Curso de Java Completo - Programação Orientada a Objetos
+(Nélio Alves) **Em andamento**;
+  - Udemy: Curso de PostgreSQL (Vitor Mazuco) **Em andamento**;
 
-## 🛡️ Certificações
-- **Desenvolvimento:**
-  - FIAP - Java Development;
-  - FIAP - Java Fundamentos;
-  - FIAP - Linux Fundamentos.
-
-- **Cybersecurity:**
-  - IBSEC - Pentester Associate;
-  - IBSEC - Boas Práticas de Cibersegurança;
-  - SkillFront - ISO/IEC 27001 Information Security Associate.
+  - IFRN: Introdução ao Ethical Hacking.
 
 ## ⚙️ Tecnologias & Interesses
 💻 Desenvolvimento
@@ -29,7 +28,7 @@ Também possuo conhecimentos em redes e cibersegurança, áreas que complementam
 
 🔐 Cybersecurity
 - Ethical Hacking
-- Pentest Web
+- Pentest
 
 ## 📚 Atualmente estudando
 - Java e Programação Orientada a Objetos
@@ -79,4 +78,3 @@ Também possuo conhecimentos em redes e cibersegurança, áreas que complementam
 ## 🔗 Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaobortolin/)
-[![Credly](https://img.shields.io/badge/Credly-F36F21?style=for-the-badge&logo=credly&logo=white)](https://www.credly.com/users/joaobortolin/badges#credly)
